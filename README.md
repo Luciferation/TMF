@@ -10,7 +10,9 @@ An easy-to-run implementation using PyTorch for the paper Trusted Multi-view Dyn
 
 **Requirements**
 
-???
+- python 3.8
+
+- pytorch 2.3.0
 
 **Pre-process dataset**
 
@@ -26,4 +28,3 @@ python main.py
 
 ## 💝 Acknowledgement
 
-???
