@@ -1,0 +1,7 @@
+/dataset/*_train.pkl
+/dataset/*_test.pkl
+/dataset/*_valid.pkl
+
+/test.ipynb
+
+__pycache__
